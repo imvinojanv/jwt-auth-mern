@@ -1,0 +1,8 @@
+### Initialize the BE
+-   NPM init (`npm init -y`)
+-   Install basic dependencies
+    (`npm i express dotenv mongoose bcryptjs jsonwebtoken cookie-parser`)
+-   Add type:module to the package.json file (line:05)
+-   Create server.js file
+-   Install nodemon as dev dependency (`npm i -D nodemon`)
+-   Update the package.json with nodemon
