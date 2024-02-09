@@ -6,3 +6,15 @@
 -   Create server.js file
 -   Install nodemon as dev dependency (`npm i -D nodemon`)
 -   Update the package.json with nodemon
+
+### Server - BE
+-   Create user routes
+-   Craete user constroller
+-   Call the user routes in server.js
+
+### Postman setup
+-   Create new personal workspace for this project
+-   Create new environment for the baseURL and save
+-   Choose the environment which we created now ('No Environment' on topbar)
+-   Create a new collection for storing the routes (Users)
+-   Save the API routes into the Users collection
